@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Digital Innovation",
+  siteName: "Information Systems",
   siteUrl: `https://rkc.orca.blog`,
   host: "0.0.0.0",
   titleTemplate: "%s",
