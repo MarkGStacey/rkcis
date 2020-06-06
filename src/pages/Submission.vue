@@ -15,7 +15,7 @@ query Posts {
     edges {
       node {
         id
-        date (format: "YYYY")
+        date (format: "YYYY-MM-DD")
         title
         categories
         thumbnail (quality: 90)
