@@ -14,6 +14,7 @@
                 <!-- <g-link class="nav__link" to="/journal">Journal</g-link> -->
                 <!-- <g-link class="nav__link" to="/contact">Say Hi!</g-link>  -->
                 <g-link class="nav__link" to="/one-minute">One Minute reviews</g-link>       
+                <g-link class="nav__link" to="/lit-review">Literature reviews</g-link>       
                 <g-link class="nav__link" to="/submission">Posts to be submitted</g-link>       
             
             </nav>
