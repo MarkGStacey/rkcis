@@ -1,10 +1,11 @@
 ---
 thumbnail: '/uploads/kmsports.png'
 title: Pro forma overview - The Role of Different Types of Information Systems In Business Organizations - A Review
-date: 2020-06-010
+date: 2020-06-09
 categories: 
 - information-systems
 - lit-review
+- submission
 project_bg_color: ''
 project_fg_color: ''
 paper: https://www-worldscientific-com.salford.idm.oclc.org/doi/abs/10.1142/S0219649216500234
