@@ -5,12 +5,11 @@ date: 2020-06-06
 categories: 
 - information-systems
 - one-minute
-- submission
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-
+### FOR PRACTICE ONLY
 `youtube:https://www.youtube.com/watch?v=toFzns8Ol2Q`
 This video is about the Toledo Mud hens, who are in the Top 10 of 160 Minor League baseball teams in terms of attendance.
 Microsoft Dynamics CRM and GP was used to automate mail campaigns, especially around following up on season tickets.

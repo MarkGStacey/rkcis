@@ -11,7 +11,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost {
+	projects: allProjectPost(filter: {categories: {containsNone: ["draft"]}}) {
     edges {
       node {
         id

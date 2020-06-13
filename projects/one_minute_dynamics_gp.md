@@ -5,12 +5,11 @@ date: 2020-06-03
 categories: 
 - information-systems
 - one-minute
-- submission
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-
+### FOR PRACTICE ONLY
 `youtube:https://www.youtube.com/embed/MwsUHNMdXYs`
 This video is a marketing driven video, for an early version of Great Plains (now Microsoft Dynamics GP) software from 2003.
 A windows based software product, let alone cloud or even web does date the application somewhat.
