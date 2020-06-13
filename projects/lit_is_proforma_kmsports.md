@@ -1,7 +1,8 @@
 ---
 thumbnail: '/uploads/kmsports.png'
-title: Pro forma overview - The Role of Different Types of Information Systems In Business Organizations - A Review
+title: Knowledge Management Systems in Sports: The Role of Organisational Structure, Tacit and Explicit Knowledge
 date: 2020-06-09
+modified: 2020-06-13
 categories: 
 - information-systems
 - lit-review

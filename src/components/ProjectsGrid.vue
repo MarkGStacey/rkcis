@@ -2,12 +2,14 @@
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
-            <g-image v-if="typeof item.node.thumbnail !== 'undefined' && item.node.thumbnail !== '' && item.node.thumbnail !== null"
+            <!-- <g-image v-if="typeof item.node.thumbnail !== 'undefined' && item.node.thumbnail !== '' && item.node.thumbnail !== null"
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
-            />
+            /> -->
             <h3 class="project-title">{{ item.node.title }}</h3>
+            {{ item.node.date}} 
+            <a v-if="item.node.modified">Modified: {{item.node.modified}}</a>
             <div class="categories">
                 <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
             </div>
@@ -42,19 +44,20 @@ table {
   border-style: solid
 }
 .projects {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: block;
+  grid-template-columns: 1fr;
   grid-gap: 4rem;
 }
 .project {
   grid-column: auto / span 2;
-  text-align: center;
+  text-align: left;
 }
 .project-link {
   text-decoration: none;
 }
 .thumbnail {
-  height: 560px;
+
+  max-height:120px;
   object-fit: cover;
   transition: all 0.15s ease;
   box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);

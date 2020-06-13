@@ -1,10 +1,9 @@
-  <template>
+<template>
   <Layout>
     <div class="container">
       <Hero />
-      One minute reviews
+      Posts to be submitted
       <SubmissionList :projects="$page.projects.edges" :hideImage="true"/>
-      <ProjectsGrid :projects="$page.projects.edges" />
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->
   </Layout>
@@ -12,7 +11,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost(filter: {categories: {contains: ["one-minute"]}}) {
+	projects: allProjectPost(filter: {categories: {contains: ["draft"]}}) {
     edges {
       node {
         id
@@ -29,14 +28,13 @@ query Posts {
 
 <script>
 import Hero from "@/components/Hero"
-import ProjectsGrid from "@/components/ProjectsGrid"
-import LatestJournals from "@/components/LatestJournals"
 import SubmissionList from "@/components/SubmissionList"
+import LatestJournals from "@/components/LatestJournals"
 
 export default {
   components: {
     Hero,
-    ProjectsGrid,
+    SubmissionList,
     LatestJournals
   }
 }
