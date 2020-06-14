@@ -8,8 +8,8 @@
                 class="thumbnail"
             /> -->
             <h3 class="project-title">{{ item.node.title }}</h3>
-            {{ item.node.date}} 
-            <a v-if="item.node.modified">Modified: {{item.node.modified}}</a>
+            <a v-if="item.node.date">First Published: {{ item.node.date}} </a>
+            <a v-if="item.node.modified">, Last Modified: {{item.node.modified}}</a>
             <div class="categories">
                 <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
             </div>

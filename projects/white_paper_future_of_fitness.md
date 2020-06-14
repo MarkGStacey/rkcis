@@ -1,6 +1,6 @@
 ---
 thumbnail: '/uploads/gp_one2.png'
-title: IS types of systems
+title: Future of fitness
 date: 2020-06-06
 categories: 
 - information-systems

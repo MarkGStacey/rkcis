@@ -1,7 +1,7 @@
 ---
 thumbnail: '/uploads/kmsports.png'
-title: Pro forma overview - The Role of Different Types of Information Systems In Business Organizations - A Review
-date: 2020-06-11
+title: SkiBaserl – Knowledge Management in High Performance Sports 
+date: 2020-06-15
 categories: 
 - information-systems
 - lit-review

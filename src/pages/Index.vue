@@ -16,6 +16,7 @@ query Posts {
       node {
         id
         date (format: "YYYY-MM-DD")
+        modified (format: "YYYY-MM-DD")
         title
         categories
         thumbnail (quality: 90)
