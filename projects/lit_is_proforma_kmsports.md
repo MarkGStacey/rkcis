@@ -12,7 +12,6 @@ project_fg_color: ''
 paper: https://www-worldscientific-com.salford.idm.oclc.org/doi/abs/10.1142/S0219649216500234
 
 ---
-# STILL IN DRAFT
 # What the Papers Say - Analysis Pro Forma
 ## Paper Title
 Knowledge Management Systems in Sports: The Role of Organisational Structure, Tacit and Explicit Knowledge
