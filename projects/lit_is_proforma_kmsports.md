@@ -75,17 +75,17 @@ Insofar as the data provided indicates, the conclusions are a logical extension 
 
 ## Quality of Presentation
 ### Is the work well presented?
-The work is well presented, and at first read appears excellent until the deeper data issues are dug into
+The work is well presented, and at first read appears excellent.
 ### Is the paper well structured?
 The paper is structured in a logical format, numbered and builds to it's conclusions well.
 ### Are symbols, terms, and concepts adequately defined?
 Yes - for instance, synonyms are used to disambiguate where needed - for instance, "organisational structures including bureaucratic, networked and market-based
 (matrix, collaborative and virtual" 
 ### Would additional tables, figures help to clarify the work?
-The tables chosen at the level of detail are useful, but tables of the cross-case pattern matching as well as, for figure 2, showing which patterns comprised categories which were then rolled up into the shown sub-dimensions would have made the research conclusions be more reproducible
+The tables chosen at the level of detail are useful, but tables of the cross-case pattern matching as well as, for figure 2, showing which patterns comprised categories which were then rolled up into the shown sub-dimensions would have made the research conclusions be more reproducible/
 	
 ## Additional Notes
-This research paper is a deep and insightful work on the comparative structures within knowledgement, and the detailing of the archetypes is good - but it has a deep and structural flaw in that it sticks entirely to the structure of the organisation but does not talk to the mechanisms and structures of how the knowledge tranfer occurs.
+This research paper is a deep and insightful work on the comparative structures within knowledge management, and the detailing of the archetypes is good - but it has a flaw in that it sticks entirely to the structure of the organisation but does not talk to the mechanisms and structures of how the knowledge tranfer occurs.
 Without reference to technology, understanding the type of knowledge transfer - be it verbal, led by example, literal book knowledge (for instance a library owned by a sports team, that could include both published books and internally produced writings), tools such as Coaches Eye  from [(TechSmith, 2019)](https://www.coachseye.com/), written training programs, drills, email systems, instant messaging and indeed even a formal knowledge management system. The structure of knowledge is not distinct from the structure of media, and this paper would have done well to include data on the media knowledge is contained in.
 
 	

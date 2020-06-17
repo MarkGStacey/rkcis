@@ -5,6 +5,7 @@ date: 2020-06-13
 categories: 
 - information-systems
 - one-minute
+- submission
 project_bg_color: ''
 project_fg_color: ''
 
