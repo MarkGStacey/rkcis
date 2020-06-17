@@ -2,7 +2,7 @@
   <Layout>
     <div class="container">
       <Hero />
-      Literature reviews
+      White papers
       <ProjectsGrid :projects="$page.projects.edges" />
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->
@@ -11,7 +11,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost(filter: {categories: {contains: ["lit-review"]}}) {
+	projects: allProjectPost(filter: {categories: {contains: ["whitepaper"]}}) {
     edges {
       node {
         id

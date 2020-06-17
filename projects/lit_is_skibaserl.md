@@ -4,7 +4,7 @@ title: SkiBaserl – Knowledge Management in High Performance Sports
 date: 2020-06-14
 categories: 
 - information-systems
-- lit-review
+- whitepaper
 project_bg_color: ''
 project_fg_color: ''
 paper: https://www-sciencedirect-com.salford.idm.oclc.org/science/article/pii/S1877705810002894
