@@ -1,7 +1,8 @@
 ---
 thumbnail: '/uploads/coachlogic_whitepaper.png'
 title: Coach logic research report
-date: 2020-06-06
+date: 2020-06-19
+date: 2020-06-19
 categories: 
 - information-systems
 - lit-review
@@ -10,6 +11,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+### STILL IN DRAFT ###
 #Title
 ### Link
 http://eprints.worc.ac.uk/5305/3/Coach%20Logic%20research%20report%20141016.pdf
@@ -23,5 +25,5 @@ The usage of the app fell into 3 areas
 - Collaborative performance analysis
 - Pair learning with senior and junior players
 
-This form of learning falls more into the tacit type of knowledge as described in [(Venkitachalam & Busch, 2013)](https://search-proquest-com.salford.idm.oclc.org/docview/939131495?accountid=8058) 
+This form of learning falls more into the tacit type of knowledge as described in [(Venkitachalam & Busch, 2013)](https://search-proquest-com.salford.idm.oclc.org/docview/939131495?accountid=8058) than encoded learning, as well as being experiential and shared. 
 
