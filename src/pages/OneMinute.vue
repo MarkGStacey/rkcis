@@ -3,8 +3,8 @@
     <div class="container">
       <Hero />
       One minute reviews
-      <SubmissionList :projects="$page.projects.edges" :hideImage="true"/>
-      <ProjectsGrid :projects="$page.projects.edges" />
+      <SubmissionList :projects="$page.projects.edges"/>
+      <!-- <ProjectsGrid :projects="$page.projects.edges" /> -->
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->
   </Layout>

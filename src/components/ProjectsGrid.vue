@@ -2,12 +2,14 @@
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
-            <!-- <g-image v-if="typeof item.node.thumbnail !== 'undefined' && item.node.thumbnail !== '' && item.node.thumbnail !== null"
+            <div>
+            <h3 class="project-title">{{ item.node.title }}</h3>
+            <g-image v-if="typeof item.node.thumbnail !== 'undefined' && item.node.thumbnail !== '' && item.node.thumbnail !== null"
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
-            /> -->
-            <h3 class="project-title">{{ item.node.title }}</h3>
+            />
+            </div>
             <a v-if="item.node.date">First Published: {{ item.node.date}} </a>
             <a v-if="item.node.modified">, Last Modified: {{item.node.modified}}</a>
             <div class="categories">
@@ -47,9 +49,13 @@ table {
   display: block;
   grid-template-columns: 1fr;
   grid-gap: 4rem;
+  
 }
 .project {
   grid-column: auto / span 2;
+  border-bottom: solid #555 1px;
+  margin-bottom: 20px;
+  padding: 10px;
   text-align: left;
 }
 .project-link {
@@ -57,8 +63,10 @@ table {
 }
 .thumbnail {
 
-  max-height:120px;
-  object-fit: cover;
+  max-height:200px;
+  object-fit: contain;
+  object-position: left;
+  margin-top: 10px;
   transition: all 0.15s ease;
   box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);
 }
@@ -77,10 +85,16 @@ table {
 .category:last-of-type {
   margin: 0;
 }
-.project:hover .thumbnail {
+/* .project:hover .thumbnail {
+  transform: scale(1.02);
+  box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25);
+} */
+
+.project:hover {
   transform: scale(1.02);
   box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25);
 }
+
 
 @media (min-width: 920px) {
   .project {

@@ -3,7 +3,7 @@
     <div class="container">
       <Hero />
       Posts to be submitted
-      <SubmissionList :projects="$page.projects.edges" :hideImage="true"/>
+      <SubmissionList :projects="$page.projects.edges"/>
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->
   </Layout>

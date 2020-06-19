@@ -3,7 +3,7 @@
     <div class="container">
       <Hero />
       White papers
-      <ProjectsGrid :projects="$page.projects.edges" />
+      <SubmissionList :projects="$page.projects.edges" />
     </div>
     <!-- <LatestJournals :journals="$page.journals.edges" /> -->
   </Layout>
@@ -31,6 +31,7 @@ query Posts {
 import Hero from "@/components/Hero"
 import ProjectsGrid from "@/components/ProjectsGrid"
 import LatestJournals from "@/components/LatestJournals"
+import SubmissionList from "@/components/SubmissionList"
 
 export default {
   components: {

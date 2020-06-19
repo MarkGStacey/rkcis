@@ -1,5 +1,5 @@
 ---
-thumbnail: '/uploads/catapult_00.png'
+thumbnail: '/uploads/catapult_webinar_title.png'
 title: Catapult Vision Webinar
 modified: 2020-06-17
 date: 2020-06-17
@@ -18,9 +18,9 @@ project_fg_color: ''
 Catapult [(Catapult Sports, 2020)](https://www.catapultsports.com/) is a leading sports analytics and athlete management system solution provider, and this webinar introduces the third pillar of their solution stack, Catapult video.
 
 Catapult as a company is considered one of the leading sports analytics companies - being integrated with Microsoft's Sports Performance Platform - see [(Microsoft, 2017)](https://news.microsoft.com/transform/seattle-seahawks-use-data-and-sports-science-to-help-players-work-as-hard-a [(Catapult Sports, 2020)](t-recovery-as-they-do-on-field/)
-[(GeekWire, 2017)](https://news.microsoft.com/transform/seattle-seahawks-use-data-and-sports-science-to-help-players-work-as-hard-at-recovery-as-they-do-on-field/) alongside other leading tools such as FitFor90 [((FitFor90, 2020)](https://www.fitfor90.com/)
+[(GeekWire, 2017)](https://news.microsoft.com/transform/seattle-seahawks-use-data-and-sports-science-to-help-players-work-as-hard-at-recovery-as-they-do-on-field/) alongside other leading tools such as FitFor90 [(FitFor90, 2020)](https://www.fitfor90.com/)
 
-Catapult sports has clients across Football, American Football, Australian Rules, Baseball, Basketball, Cricket, Ice Hockey and Rugby [((Catapult Sports, 2020))](https://www.catapultsports.com/sports), and their primary and original business involves wearable devices that monitor players. This webinar covers the latest version of Catapult Video, a software producted developed on the base of a product developed by a company acquired in 2016, XOS [(Sports Business Insider, 2016)](https://www.sportsbusinessdaily.com/Daily/Issues/2016/07/13/Finance/Catapult.aspx), for $60m
+Catapult sports has clients across Football, American Football, Australian Rules, Baseball, Basketball, Cricket, Ice Hockey and Rugby [(Catapult Sports, 2020)](https://www.catapultsports.com/sports), and their primary and original business involves wearable devices that monitor players. This webinar covers the latest version of Catapult Video, a software producted developed on the base of a product developed by a company acquired in 2016, XOS [(Sports Business Insider, 2016)](https://www.sportsbusinessdaily.com/Daily/Issues/2016/07/13/Finance/Catapult.aspx), for $60m
 
 Before introducing the software product, the webinar highlights the manual process currently at play to try analyse video data alongside the physical movement data - it's shown as 7 steps in the webinar - it's worth noting that the later demo does show a more streamlined process, but it's still 3 separate steps to download and import and consolidate between the physical and the video footage.
 
