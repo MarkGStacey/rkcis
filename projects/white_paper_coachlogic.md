@@ -1,6 +1,6 @@
 ---
-thumbnail: '/uploads/gp_one2.png'
-title: Future of fitness
+thumbnail: '/uploads/coachlogic_whitepaper.png'
+title: Coach logic research report
 date: 2020-06-06
 categories: 
 - information-systems
@@ -10,5 +10,5 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-https://www.srknowledge.org.nz/research-completed/the-future-of-fitness/
+http://eprints.worc.ac.uk/5305/3/Coach%20Logic%20research%20report%20141016.pdf
 
