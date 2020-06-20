@@ -6,12 +6,11 @@ modified: 2020-06-19
 categories: 
 - information-systems
 - lit-review
-- draft
+- submission
 project_bg_color: ''
 project_fg_color: ''
-
+order: 
 ---
-### STILL IN DRAFT ###
 #Title
 ### Link
 http://eprints.worc.ac.uk/5305/3/Coach%20Logic%20research%20report%20141016.pdf
