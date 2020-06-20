@@ -37,3 +37,18 @@ This review of the effectiveness of video based analysis (specifically coach-pla
 One aspect that this paper doesn't cover is whether the application includes a prebuilt knowledge base of videos and other material, as some competitors do [(Stratus Sports, 2020)](http://stratussports.com/Features/Data)
 The paper finishes with a good call to action in suggesting further research and development to integrate coaching platforms with strength and conditioning coaches and physiotherapists.
 
+
+### Bibliography
+- Catapult Sports, 2020. Catapult Sports. [Online] 
+Available at: https://www.catapultsports.com/
+- CoachLogic, 2020. CoachLogic. [Online] 
+Available at: https://www.coach-logic.com/
+- Erhardt, N. & Martin-Rios, C., 2016. Knowledge Management Systems in Sports: The Role of Organisational Structure, Tacit and Explicit Knowledge. Journal of Information & Knowledge Management.
+- Stratus Sports, 2020. Stratus Sports. [Online] 
+Available at: http://stratussports.com/
+- Stratus Sports, 2020. Stratus Sports Data. [Online] 
+Available at: http://stratussports.com/Features/Data
+- TechSmith, 2019. Coaches Eye. [Online] 
+Available at: https://www.coachseye.com/
+- Venkitachalam, K. & Busch, P., 2013. Tacit knowledge: Review and possible research. Journal of Knowledge Management, pp. 357-372.
+
