@@ -5,10 +5,10 @@ date: 2020-06-16
 categories: 
 - information-systems
 - one-minute
-- submission
+- draft
 project_bg_color: ''
 project_fg_color: ''
-
+order: 900
 ---
 # Title
  CoachLogic: Connect The Game for deeper understanding

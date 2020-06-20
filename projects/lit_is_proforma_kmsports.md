@@ -88,9 +88,9 @@ The tables chosen at the level of detail are useful, but tables of the cross-cas
 	
 ## Additional Notes
 This research paper is a deep and insightful work on the comparative structures within knowledge management, and the detailing of the archetypes is good - but it has a flaw in that it sticks entirely to the structure of the organisation but does not talk to the mechanisms and structures of how the knowledge tranfer occurs. While not core to the stated objective, without reference to technology, understanding the type of knowledge transfer - be it verbal, led by example, literal book knowledge (for instance a library owned by a sports team, that could include both published books and internally produced writings), tools such as Coaches Eye  from [(TechSmith, 2019)](https://www.coachseye.com/), written training programs, drills, email systems, instant messaging and indeed even a formal knowledge management system. The structure of knowledge is not distinct from the structure of media, and this paper would have done well to include data on the media knowledge is contained in. This flaw becomes more apparent as newer work on knowledge management that includes video analysis (which crosses the boundaries between the two archetypes) is reviewed, such as products from (Catapult Sports, 2020).
+Another possible view, as reflected in [(Light, Harvey, & Mouchet, 2014)](https://www-tandfonline-com.salford.idm.oclc.org/doi/full/10.1080/13573322.2012.665803) in their reflections on complex learning theory as applied to rugby union football is that the mechanistic approach portrayed here an archetype is instead an older, less effective model for knowledge transfer in sports coaching.
 
-
-	
+<!--- 
 ### Bibliography
 - Argote, L., McEvily, B., & Reagans, R. (2003). Managing knowledge in organisations: An integrative framework and review of emerging themes. Management Science, 571-582. Retrieved from https://pdfs.semanticscholar.org/aeb2/3992f2a2d386a3a3521908c5354905fc3352.pdf
 - CoachLogic. (2020). CoachLogic. Retrieved from CoachLogic: https://www.coach-logic.com/
@@ -100,6 +100,7 @@ This research paper is a deep and insightful work on the comparative structures 
 - Erhardt, N., & Martin-Rios, C. (Vol. 15, No. 02, 1650023 (2016)). Knowledge Management Systems in Sports: The Role of Organisational Structure, Tacit and Explicit Knowledge. Journal of Information & Knowledge Management. Retrieved from https://www-worldscientific-com.salford.idm.oclc.org/doi/abs/10.1142/S0219649216500234
 - Frawley, S., & Toohey, K. (n.d.). The importance of prior knowledge: the Australian Olympic Committee and the Sydney 2000 Olympic Games. Sport in Society, Cultures, Commerce, Media, Politics. Retrieved from https://www-tandfonline-com.salford.idm.oclc.org/doi/full/10.1080/17430430903053208?src=recsys
 - Halbwirth, S., & Toohey, K. (n.d.). The Olympic Games and knowledge management: A case study of the Sydney organising committee of the Olympic Games. European Sport Management Quarterly. Retrieved from https://www-tandfonline-com.salford.idm.oclc.org/doi/abs/10.1080/16184740108721890
+- Light, R., Harvey, S., & Mouchet, A. (2014). Improving ‘at-action’ decision-making in team sports through a holistic coaching approach. Sport, Education & Society. Retrieved from https://www-tandfonline-com.salford.idm.oclc.org/doi/full/10.1080/13573322.2012.665803
 - ME. (n.d.).
 - Schenk, J., Parent, M., MacDonald, D., & Therrien, L. (2015). The evolution of knowledge management and transfer processes from domestic to international multi-sport events. European Sport Management Quarterly, 15, Issue 5. Retrieved from https://www.tandfonline.com/doi/abs/10.1080/16184742.2015.1091022
 - Slack, T., & Parent, M. (2006). Understanding Sport Organizations: The Application of Organization Theory, Champaign, IL: Human Kinetics. 
@@ -107,3 +108,4 @@ This research paper is a deep and insightful work on the comparative structures 
 - Vinson, D., Beeching, K., Morgan, M., & Jones, G. (n.d.). Coach Logic research report. Retrieved from University of Worcester: http://eprints.worc.ac.uk/5305/3/Coach%20Logic%20research%20report%20141016.pdf
 - Witherspoon, C., Bergner, J., Cockrell, C., & Stone, D. (2013). Antecedents of organizational knowledge sharing: A meta-analysis and critique. Journal of Knowledge Management, 17(2), 250-277. Retrieved from https://www.researchgate.net/publication/262860998_Antecedents_of_organizational_knowledge_sharing_A_meta-analysis_and_critique
 
+-->

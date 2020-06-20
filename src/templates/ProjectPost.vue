@@ -33,6 +33,7 @@
 
         <div v-html="$page.post.content" class="content" />
 
+        <References />
       </div>
 
     </div>
@@ -54,7 +55,11 @@ query ProjectPost ($path: String!) {
 </page-query>
 
 <script>
+import References from "@/components/References"
 export default {
+  components: {
+    References
+  },
   metaInfo () {
     return {
       title: this.$page.post.title,

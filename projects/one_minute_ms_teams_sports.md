@@ -8,7 +8,7 @@ categories:
 - submission
 project_bg_color: ''
 project_fg_color: ''
-
+order: 400
 ---
 # Title
 Saints Sport adopt Microsoft Teams, published 19 March 2020
@@ -21,3 +21,5 @@ Saint sports, the University of St Andrews' sports and education department, rec
 Key challenges that were solved by this initiative included low staff engagement; as well as time wasted looking for documents; and poor understanding of processes.
 The highlighted features of Teams includes polls, illustrations, the search functions, and the feature Teams is most famous for - the remote meetings.
 This particular posting is very focused on the benefits of Microsoft Teams - the open questions are around any challenges faced during adoption which were overcome, which is not covered. Another open question is how competing products would have fared - are the improvements seen due to the processes changed or the software products utilized?
+
+Collaboration tools can be used by sports teams to enhance training, share knowledge - these will often be common social media platforms such as What's App [(Whatsapp, 2020)](https://www.whatsapp.com/), or facebook groups such as this climbing one [(Facebook, 2020)](https://www.facebook.com/groups/306385676851823). There are however concerns - on security, regulatory or contractual issues, or usability. [(Ahmed, Carmody, Walker, & Admad, 2020)](https://bjsm.bmj.com/content/early/2020/05/21/bjsports-2019-101707.full) address some of these in a sports medicine context. A platform such as Microsoft Teams, with it's fully featured and security compliant platform [(Microsoft, 2020)](https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-home?view=o365-worldwide) can solve many of these issues - albeit at the cost of a higher administration burden and initial setup. An opportunity for a sports team focused Microsoft partner to step in and buid a solution?

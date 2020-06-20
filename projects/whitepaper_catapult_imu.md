@@ -8,7 +8,7 @@ categories:
 - whitepaper
 project_bg_color: ''
 project_fg_color: ''
-
+order: 600
 ---
 # Inertial Movement Analysis, by Catapult
 

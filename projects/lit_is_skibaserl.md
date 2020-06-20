@@ -9,7 +9,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 paper: https://www-sciencedirect-com.salford.idm.oclc.org/science/article/pii/S1877705810002894
-order: 200
+order: 300
 ---
 # SkiBaserl – Knowledge Management in High Performance Sports 
 # Link
@@ -30,7 +30,7 @@ The authors do point out the users and scenarios for KM in high performance spor
 The paper's conclusions that non-technical factors and socialisation are more important indicators of a knowledge management system's success than software design or utility is an important one - for sports organisations and for businesses.
 The paper's figures were limited to screenshots of the system itself - diagrams of the integration and architecture of how the systems were put together as well as process diagrams of how users interact with the system would be useful for deeper understanding.
 
-This paper purports to be an unusual example of a knowledge management system built specifically for a sports team - the topic appears to be underserved in comparison to ERP or CRM systems built for sports teams and is worthy of further attention. This is at least partly because the knowledge management field has been somewhat subsumed into the more widely used term "sports analytics" and products in that field encompass the knowledge management practice - and also partly because knowledge management as a practice is broader than a silver bullet technology solution [(Hobert, 2018)](https://blogs.gartner.com/karen-hobert/2018/02/21/no-thing-knowledge-management-market/) - this paper touches on this somewhat, but would have done well to examine the broader role of the practice outside the software implementation.
+This paper purports to be an unusual example of a knowledge management system built specifically for a sports team - the topic appears to be underserved in comparison to ERP or CRM systems built for sports teams and is worthy of further attention. This is at least partly because the knowledge management field has been somewhat subsumed into the more widely used term "sports analytics" and products in that field encompass the knowledge management practice - and also partly because knowledge management as a practice is broader than a silver bullet technology solution [(Hobert, 2018)](https://blogs.gartner.com/karen-hobert/2018/02/21/no-thing-knowledge-management-market/) - this paper touches on this somewhat, but would have done well to examine the broader role of the practice outside the software implementation. To quote Karen Hobert from Gartner, Knowledge management "cannot be embodied through purely technological or digital means" [(Hobert, 2018)](https://blogs.gartner.com/karen-hobert/2018/02/21/no-thing-knowledge-management-market/) 
 
 
 

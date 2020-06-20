@@ -11,7 +11,7 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost(filter: {categories: {contains: ["submission"]}}) {
+	projects: allProjectPost(sort: [{by:"order", order:ASC}], filter: {categories: {contains: ["submission"]}}) {
     edges {
       node {
         id
@@ -21,6 +21,7 @@ query Posts {
         categories
         thumbnail (quality: 90)
         path
+        order
       }
     }
   }
