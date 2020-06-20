@@ -2,7 +2,7 @@
 thumbnail: '/uploads/coachlogic_whitepaper.png'
 title: Coach logic research report
 date: 2020-06-19
-date: 2020-06-19
+modified: 2020-06-19
 categories: 
 - information-systems
 - lit-review
@@ -26,4 +26,11 @@ The usage of the app fell into 3 areas
 - Pair learning with senior and junior players
 
 This form of learning falls more into the tacit type of knowledge as described in [(Venkitachalam & Busch, 2013)](https://search-proquest-com.salford.idm.oclc.org/docview/939131495?accountid=8058) than encoded learning, as well as being experiential and shared. 
+Through the series of interviews with the coaches and players, thw role of the coach was established as:
+- Engage the athlete
+- Athletes to actively analyse their own performance as well as their role in the broader context
+- Coaches to support the players when they don't yet know what they're looking for in the video being shared. 
+The use of a software tool in this context allows the players to engage at length and asynchronously and not just through a post-match review in person, "demanding an immediate response". This process also enables player to player collaboration and pair learning. As covered in [Erhardt & Martin-Rios, Vol. 15, No. 02, 1650023 (2016)](https://www-worldscientific-com.salford.idm.oclc.org/doi/abs/10.1142/S0219649216500234) and their coverage of the "organic" coaching organisation, where experiential learning is highlighted as the most important facet.
+The paper concludes that, despite not having analysed objective measures of success, the players and coaches of the seven clubs all use the system extensively, and indeed themselves credit the use of the system with impressive improvements in performance. 
+This review of the effectiveness of video based analysis (specifically coach-player collaborative video analysis as opposed to motion analysis) is a good review of the effectiveness of these tools; but also highlights the ways in which the knowledge transfer process needs to be designed to not just be a one way process from coach to player.
 
