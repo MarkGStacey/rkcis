@@ -37,6 +37,9 @@ This review of the effectiveness of video based analysis (specifically coach-pla
 One aspect that this paper doesn't cover is whether the application includes a prebuilt knowledge base of videos and other material, as some competitors do [(Stratus Sports, 2020)](http://stratussports.com/Features/Data)
 The paper finishes with a good call to action in suggesting further research and development to integrate coaching platforms with strength and conditioning coaches and physiotherapists.
 
+Coach-Logic is an interesting platform, with some intriguing features – and doesn’t really measure up to a platform such as (Catapult Sports, 2020) or (Stratus Sports, 2020) with integrated accelerometers and associated hardware – but it is also the only one an amateur team can just log onto, sign up and use. And most likely afford. This puts it in a niche. 
+And it has much more fully featured team collaboration features than Coaches Eye by (TechSmith, 2019) or other lower end tools. With several good teams and investment, they should see good success. However, testing the application itself shows that the collaboration and knowledge sharing features are still rudimentary, and especially an ontology toolset to enable deeper sharing and searchability would be a good place for this vendor to focus.
+
 
 ### Bibliography
 - Catapult Sports, 2020. Catapult Sports. [Online] 
