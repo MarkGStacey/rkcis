@@ -33,7 +33,7 @@
 
         <div v-html="$page.post.content" class="content" />
 
-        <References />
+        <!-- <References /> -->
       </div>
 
     </div>
